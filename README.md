@@ -1,4 +1,4 @@
-## Hi there 👋 its Mojeed Here!
+## Hi there 👋 Mohammed Majeed Here!
 
 I’m passionate about building impactful software solutions, blending data-driven decision-making with solid engineering practices. I enjoy solving problems across software engineering, data structures, algorithms, and web development.
 
